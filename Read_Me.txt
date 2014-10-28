@@ -1,0 +1,1 @@
+This is I2C Client Driver for EEPROM(Microchip 24FC256) implemented on intel galileo board.
